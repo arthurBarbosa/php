@@ -42,7 +42,7 @@ $aluno = new Usuario("Paulo", "1234");
 $aluno->insert();
 echo $aluno;
 */
-
+/* alterando um usuario
 $aluno = new Usuario();
 
 $aluno->loadById(7);
@@ -50,4 +50,11 @@ $aluno->loadById(7);
 $aluno->update("Professor", "qwert");
 
 echo $aluno;
+*/
+
+$usuario = new Usuario();
+
+$usuario->loadById(7);
+$usuario->delete();
+echo $usuario;
  ?>
