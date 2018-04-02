@@ -1,1 +1,2 @@
-# php repositório criado para possivel ajuda para quem está iniciando com a linguagem PHP
+# PHP
+Este repositório foi criado para uma possivel ajuda para quem está iniciando com a linguagem PHP
